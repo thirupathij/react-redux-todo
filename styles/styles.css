@@ -1,0 +1,9 @@
+.add-task input {
+  padding : 5px;
+  margin: 5px;	
+}
+
+.filter span {
+  padding: 5px;
+  cursor: pointer;
+}
